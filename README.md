@@ -9,3 +9,11 @@ Based on the market size analysis, provide strategic recommendations for busines
 To forecast the total number of EVs expected to be registered in 2024, we can use a growth rate based approach from previous complete years.
 
 We’ll calculate the Compound Annual Growth Rate (CAGR) between a recent year with complete data (2023) and an earlier year to project the 2024 figures. Additionally, using this growth rate, we can estimate the market size for the next five years.
+
+
+Requirements : 
+pandas
+matplotlib
+scipy import curvefit
+numpy
+seaborn
